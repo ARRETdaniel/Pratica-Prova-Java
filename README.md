@@ -16,4 +16,4 @@ Author: Daniel Terra Gomes
 
 
 ### Link doc:
-- <a href="--" target="_blank">Doc atividade 1</a>
+- <a href="[--](https://docs.google.com/document/d/1Au4vahpPN2jLwjsRNE6PQJTK0r2NaNat_XEvhqRgFVk/edit?usp=sharing)" target="_blank">Doc Pratica</a>
