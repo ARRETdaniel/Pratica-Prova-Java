@@ -1,4 +1,4 @@
-public class Livro implements publicacao {
+public class Livro implements Publicacao {
   private String titulo;
   private String autor;
   private int totPaginas;
