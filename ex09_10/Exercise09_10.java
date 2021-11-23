@@ -3,7 +3,7 @@ public class Exercise09_10 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Insira os valores para a, b e c: ");
+        System.out.println("Insira os valores para a, b & c: ");
 
         double a = in.nextDouble();
         double b = in.nextDouble();

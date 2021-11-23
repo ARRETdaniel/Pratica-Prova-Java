@@ -20,8 +20,8 @@ public class Exercise09_11 {
 
         if (tester.isSolvable()) {
 
-            System.out.println("x is " + tester.getX());
-            System.out.println("y is " + tester.getY());
+            System.out.println("x:  " + tester.getX());
+            System.out.println("y:  " + tester.getY());
 
         } else {
             System.out.println("A equacao nao tem solucao");
